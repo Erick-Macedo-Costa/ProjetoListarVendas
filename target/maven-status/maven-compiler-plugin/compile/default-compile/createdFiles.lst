@@ -1,0 +1,7 @@
+com\example\projetovenda\ConfiguracaoSpringMvc.class
+com\example\projetovenda\model\entity\Venda.class
+com\example\projetovenda\model\entity\Produto.class
+com\example\projetovenda\ProjetovendaApplication.class
+com\example\projetovenda\model\repository\VendaRepository.class
+com\example\projetovenda\model\entity\ItemVenda.class
+com\example\projetovenda\controller\VendaController.class
